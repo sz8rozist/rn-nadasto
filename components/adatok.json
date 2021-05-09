@@ -1,0 +1,994 @@
+[
+ {
+   "postcode": 5671,
+   "city": "Békéscsaba"
+ },
+ {
+   "postcode": 5672,
+   "city": "Murony"
+ },
+ {
+   "postcode": 5673,
+   "city": "Kamut"
+ },
+ {
+   "postcode": 5674,
+   "city": "Kétsoprony"
+ },
+ {
+   "postcode": 5675,
+   "city": "Telekgerendás"
+ },
+ {
+   "postcode": 5700,
+   "city": "Gyula"
+ },
+ {
+   "postcode": 5711,
+   "city": "Gyula"
+ },
+ {
+   "postcode": 5712,
+   "city": "Szabadkígyós"
+ },
+ {
+   "postcode": 5720,
+   "city": "Sarkad"
+ },
+ {
+   "postcode": 5725,
+   "city": "Kötegyán"
+ },
+ {
+   "postcode": 5726,
+   "city": "Méhkerék"
+ },
+ {
+   "postcode": 5727,
+   "city": "Újszalonta"
+ },
+ {
+   "postcode": 5731,
+   "city": "Sarkadkeresztúr"
+ },
+ {
+   "postcode": 5732,
+   "city": "Mezőgyán"
+ },
+ {
+   "postcode": 5734,
+   "city": "Geszt"
+ },
+ {
+   "postcode": 5741,
+   "city": "Kétegyháza"
+ },
+ {
+   "postcode": 5742,
+   "city": "Elek"
+ },
+ {
+   "postcode": 5743,
+   "city": "Lőkösháza"
+ },
+ {
+   "postcode": 5744,
+   "city": "Kevermes"
+ },
+ {
+   "postcode": 5745,
+   "city": "Dombiratos"
+ },
+ {
+   "postcode": 5746,
+   "city": "Kunágota"
+ },
+ {
+   "postcode": 5747,
+   "city": "Almáskamarás"
+ },
+ {
+   "postcode": 5751,
+   "city": "Nagykamarás"
+ },
+ {
+   "postcode": 5752,
+   "city": "Medgyesegyháza"
+ },
+ {
+   "postcode": 5800,
+   "city": "Mezőkovácsháza"
+ },
+ {
+   "postcode": 5811,
+   "city": "Végegyháza"
+ },
+ {
+   "postcode": 5820,
+   "city": "Mezőhegyes"
+ },
+ {
+   "postcode": 5830,
+   "city": "Battonya"
+ },
+ {
+   "postcode": 5836,
+   "city": "Dombegyház"
+ },
+ {
+   "postcode": 5837,
+   "city": "Kisdombegyház"
+ },
+ {
+   "postcode": 5838,
+   "city": "Magyardombegyház"
+ },
+ {
+   "postcode": 5900,
+   "city": "Orosháza"
+ },
+ {
+   "postcode": 5903,
+   "city": "Orosháza"
+ },
+ {
+   "postcode": 5904,
+   "city": "Orosháza"
+ },
+ {
+   "postcode": 5905,
+   "city": "Orosháza"
+ },
+ {
+   "postcode": 5919,
+   "city": "Pusztaföldvár"
+ },
+ {
+   "postcode": 5920,
+   "city": "Csorvás"
+ },
+ {
+   "postcode": 5925,
+   "city": "Gerendás"
+ },
+ {
+   "postcode": 5931,
+   "city": "Nagyszénás"
+ },
+ {
+   "postcode": 5932,
+   "city": "Gádoros"
+ },
+ {
+   "postcode": 5940,
+   "city": "Tótkomlós"
+ },
+ {
+   "postcode": 5945,
+   "city": "Kardoskút"
+ },
+ {
+   "postcode": 5946,
+   "city": "Békéssámson"
+ },
+ {
+   "postcode": 5948,
+   "city": "Kaszaper"
+ },
+ {
+   "postcode": 6000,
+   "city": "Kecskemét"
+ },
+ {
+   "postcode": 6008,
+   "city": "Kecskemét"
+ },
+ {
+   "postcode": 6031,
+   "city": "Szentkirály"
+ },
+ {
+   "postcode": 6032,
+   "city": "Nyárlőrinc"
+ },
+ {
+   "postcode": 6033,
+   "city": "Városföld"
+ },
+ {
+   "postcode": 6034,
+   "city": "Helvécia"
+ },
+ {
+   "postcode": 6035,
+   "city": "Ballószög"
+ },
+ {
+   "postcode": 6041,
+   "city": "Kerekegyháza"
+ },
+ {
+   "postcode": 6042,
+   "city": "Fülöpháza"
+ },
+ {
+   "postcode": 6043,
+   "city": "Kunbaracs"
+ },
+ {
+   "postcode": 6044,
+   "city": "Kecskemét"
+ },
+ {
+   "postcode": 6045,
+   "city": "Ladánybene"
+ },
+ {
+   "postcode": 6050,
+   "city": "Lajosmizse"
+ },
+ {
+   "postcode": 6055,
+   "city": "Felsőlajos"
+ },
+ {
+   "postcode": 6060,
+   "city": "Tiszakécske"
+ },
+ {
+   "postcode": 6062,
+   "city": "Tiszakécske"
+ },
+ {
+   "postcode": 6064,
+   "city": "Tiszaug"
+ },
+ {
+   "postcode": 6065,
+   "city": "Lakitelek"
+ },
+ {
+   "postcode": 6066,
+   "city": "Tiszaalpár"
+ },
+ {
+   "postcode": 6067,
+   "city": "Tiszaalpár"
+ },
+ {
+   "postcode": 6070,
+   "city": "Izsák"
+ },
+ {
+   "postcode": 6075,
+   "city": "Páhi"
+ },
+ {
+   "postcode": 6076,
+   "city": "Ágasegyháza"
+ },
+ {
+   "postcode": 6077,
+   "city": "Orgovány"
+ },
+ {
+   "postcode": 6078,
+   "city": "Jakabszállás"
+ },
+ {
+   "postcode": 6080,
+   "city": "Szabadszállás"
+ },
+ {
+   "postcode": 6085,
+   "city": "Fülöpszállás"
+ },
+ {
+   "postcode": 6086,
+   "city": "Szalkszentmárton"
+ },
+ {
+   "postcode": 6087,
+   "city": "Dunavecse"
+ },
+ {
+   "postcode": 6088,
+   "city": "Apostag"
+ },
+ {
+   "postcode": 6090,
+   "city": "Kunszentmiklós"
+ },
+ {
+   "postcode": 6096,
+   "city": "Kunpeszér"
+ },
+ {
+   "postcode": 6097,
+   "city": "Kunadacs"
+ },
+ {
+   "postcode": 6098,
+   "city": "Tass"
+ },
+ {
+   "postcode": 6100,
+   "city": "Kiskunfélegyháza"
+ },
+ {
+   "postcode": 6111,
+   "city": "Gátér"
+ },
+ {
+   "postcode": 6112,
+   "city": "Pálmonostora"
+ },
+ {
+   "postcode": 6113,
+   "city": "Petőfiszállás"
+ },
+ {
+   "postcode": 6114,
+   "city": "Bugac"
+ },
+ {
+   "postcode": 6114,
+   "city": "Bugacpusztaháza"
+ },
+ {
+   "postcode": 6115,
+   "city": "Kunszállás"
+ },
+ {
+   "postcode": 6116,
+   "city": "Fülöpjakab"
+ },
+ {
+   "postcode": 6120,
+   "city": "Kiskunmajsa"
+ },
+ {
+   "postcode": 6131,
+   "city": "Szank"
+ },
+ {
+   "postcode": 6132,
+   "city": "Móricgát"
+ },
+ {
+   "postcode": 6133,
+   "city": "Jászszentlászló"
+ },
+ {
+   "postcode": 6134,
+   "city": "Kömpöc"
+ },
+ {
+   "postcode": 6135,
+   "city": "Csólyospálos"
+ },
+ {
+   "postcode": 6136,
+   "city": "Harkakötöny"
+ },
+ {
+   "postcode": 6200,
+   "city": "Kiskőrös"
+ },
+ {
+   "postcode": 6211,
+   "city": "Kaskantyú"
+ },
+ {
+   "postcode": 6221,
+   "city": "Akasztó"
+ },
+ {
+   "postcode": 6222,
+   "city": "Csengőd"
+ },
+ {
+   "postcode": 6223,
+   "city": "Soltszentimre"
+ },
+ {
+   "postcode": 6224,
+   "city": "Tabdi"
+ },
+ {
+   "postcode": 6230,
+   "city": "Soltvadkert"
+ },
+ {
+   "postcode": 6235,
+   "city": "Bócsa"
+ },
+ {
+   "postcode": 6236,
+   "city": "Tázlár"
+ },
+ {
+   "postcode": 6237,
+   "city": "Kecel"
+ },
+ {
+   "postcode": 6238,
+   "city": "Imrehegy"
+ },
+ {
+   "postcode": 6239,
+   "city": "Császártöltés"
+ },
+ {
+   "postcode": 6300,
+   "city": "Kalocsa"
+ },
+ {
+   "postcode": 6311,
+   "city": "Öregcsertő"
+ },
+ {
+   "postcode": 6320,
+   "city": "Solt"
+ },
+ {
+   "postcode": 6321,
+   "city": "Újsolt"
+ },
+ {
+   "postcode": 6323,
+   "city": "Dunaegyháza"
+ },
+ {
+   "postcode": 6325,
+   "city": "Dunatetétlen"
+ },
+ {
+   "postcode": 6326,
+   "city": "Harta"
+ },
+ {
+   "postcode": 6327,
+   "city": "Harta"
+ },
+ {
+   "postcode": 6328,
+   "city": "Dunapataj"
+ },
+ {
+   "postcode": 6331,
+   "city": "Foktő"
+ },
+ {
+   "postcode": 6332,
+   "city": "Uszód"
+ },
+ {
+   "postcode": 6333,
+   "city": "Dunaszentbenedek"
+ },
+ {
+   "postcode": 6334,
+   "city": "Géderlak"
+ },
+ {
+   "postcode": 6335,
+   "city": "Ordas"
+ },
+ {
+   "postcode": 6336,
+   "city": "Szakmár"
+ },
+ {
+   "postcode": 6337,
+   "city": "Újtelek"
+ },
+ {
+   "postcode": 6341,
+   "city": "Homokmégy"
+ },
+ {
+   "postcode": 6342,
+   "city": "Drágszél"
+ },
+ {
+   "postcode": 6343,
+   "city": "Miske"
+ },
+ {
+   "postcode": 6344,
+   "city": "Hajós"
+ },
+ {
+   "postcode": 6345,
+   "city": "Nemesnádudvar"
+ },
+ {
+   "postcode": 6346,
+   "city": "Sükösd"
+ },
+ {
+   "postcode": 6347,
+   "city": "Érsekcsanád"
+ },
+ {
+   "postcode": 6348,
+   "city": "Érsekhalma"
+ },
+ {
+   "postcode": 6351,
+   "city": "Bátya"
+ },
+ {
+   "postcode": 6352,
+   "city": "Fajsz"
+ },
+ {
+   "postcode": 6353,
+   "city": "Dusnok"
+ },
+ {
+   "postcode": 6400,
+   "city": "Kiskunhalas"
+ },
+ {
+   "postcode": 6411,
+   "city": "Zsana"
+ },
+ {
+   "postcode": 6412,
+   "city": "Balotaszállás"
+ },
+ {
+   "postcode": 6413,
+   "city": "Kunfehértó"
+ },
+ {
+   "postcode": 6414,
+   "city": "Pirtó"
+ },
+ {
+   "postcode": 6421,
+   "city": "Kisszállás"
+ },
+ {
+   "postcode": 6422,
+   "city": "Tompa"
+ },
+ {
+   "postcode": 6423,
+   "city": "Kelebia"
+ },
+ {
+   "postcode": 6424,
+   "city": "Csikéria"
+ },
+ {
+   "postcode": 6425,
+   "city": "Bácsszőlős"
+ },
+ {
+   "postcode": 6430,
+   "city": "Bácsalmás"
+ },
+ {
+   "postcode": 6435,
+   "city": "Kunbaja"
+ },
+ {
+   "postcode": 6440,
+   "city": "Jánoshalma"
+ },
+ {
+   "postcode": 6444,
+   "city": "Kéleshalom"
+ },
+ {
+   "postcode": 6445,
+   "city": "Borota"
+ },
+ {
+   "postcode": 6446,
+   "city": "Rém"
+ },
+ {
+   "postcode": 6447,
+   "city": "Felsőszentiván"
+ },
+ {
+   "postcode": 6448,
+   "city": "Csávoly"
+ },
+ {
+   "postcode": 6449,
+   "city": "Mélykút"
+ },
+ {
+   "postcode": 6451,
+   "city": "Tataháza"
+ },
+ {
+   "postcode": 6452,
+   "city": "Mátételke"
+ },
+ {
+   "postcode": 6453,
+   "city": "Bácsbokod"
+ },
+ {
+   "postcode": 6454,
+   "city": "Bácsborsód"
+ },
+ {
+   "postcode": 6455,
+   "city": "Katymár"
+ },
+ {
+   "postcode": 6456,
+   "city": "Madaras"
+ },
+ {
+   "postcode": 6500,
+   "city": "Baja"
+ },
+ {
+   "postcode": 6503,
+   "city": "Baja"
+ },
+ {
+   "postcode": 6511,
+   "city": "Bácsszentgyörgy"
+ },
+ {
+   "postcode": 6512,
+   "city": "Szeremle"
+ },
+ {
+   "postcode": 6513,
+   "city": "Dunafalva"
+ },
+ {
+   "postcode": 6521,
+   "city": "Vaskút"
+ },
+ {
+   "postcode": 6522,
+   "city": "Gara"
+ },
+ {
+   "postcode": 6523,
+   "city": "Csátalja"
+ },
+ {
+   "postcode": 6524,
+   "city": "Dávod"
+ },
+ {
+   "postcode": 6525,
+   "city": "Hercegszántó"
+ },
+ {
+   "postcode": 6527,
+   "city": "Nagybaracska"
+ },
+ {
+   "postcode": 6528,
+   "city": "Bátmonostor"
+ },
+ {
+   "postcode": 6600,
+   "city": "Szentes"
+ },
+ {
+   "postcode": 6612,
+   "city": "Nagytőke"
+ },
+ {
+   "postcode": 6621,
+   "city": "Derekegyház"
+ },
+ {
+   "postcode": 6622,
+   "city": "Nagymágocs"
+ },
+ {
+   "postcode": 6623,
+   "city": "Árpádhalom"
+ },
+ {
+   "postcode": 6624,
+   "city": "Eperjes"
+ },
+ {
+   "postcode": 6625,
+   "city": "Fábiánsebestyén"
+ },
+ {
+   "postcode": 6630,
+   "city": "Mindszent"
+ },
+ {
+   "postcode": 6635,
+   "city": "Szegvár"
+ },
+ {
+   "postcode": 6636,
+   "city": "Mártély"
+ },
+ {
+   "postcode": 6640,
+   "city": "Csongrád"
+ },
+ {
+   "postcode": 6645,
+   "city": "Felgyő"
+ },
+ {
+   "postcode": 6646,
+   "city": "Tömörkény"
+ },
+ {
+   "postcode": 6647,
+   "city": "Csanytelek"
+ },
+ {
+   "postcode": 6648,
+   "city": "Csongrád"
+ },
+ {
+   "postcode": 6700,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6750,
+   "city": "Algyő"
+ },
+ {
+   "postcode": 6754,
+   "city": "Újszentiván"
+ },
+ {
+   "postcode": 6755,
+   "city": "Kübekháza"
+ },
+ {
+   "postcode": 6756,
+   "city": "Tiszasziget"
+ },
+ {
+   "postcode": 6758,
+   "city": "Röszke"
+ },
+ {
+   "postcode": 6760,
+   "city": "Kistelek"
+ },
+ {
+   "postcode": 6762,
+   "city": "Sándorfalva"
+ },
+ {
+   "postcode": 6763,
+   "city": "Szatymaz"
+ },
+ {
+   "postcode": 6764,
+   "city": "Balástya"
+ },
+ {
+   "postcode": 6765,
+   "city": "Csengele"
+ },
+ {
+   "postcode": 6766,
+   "city": "Dóc"
+ },
+ {
+   "postcode": 6767,
+   "city": "Ópusztaszer"
+ },
+ {
+   "postcode": 6768,
+   "city": "Baks"
+ },
+ {
+   "postcode": 6769,
+   "city": "Pusztaszer"
+ },
+ {
+   "postcode": 6772,
+   "city": "Deszk"
+ },
+ {
+   "postcode": 6773,
+   "city": "Klárafalva"
+ },
+ {
+   "postcode": 6774,
+   "city": "Ferencszállás"
+ },
+ {
+   "postcode": 6775,
+   "city": "Kiszombor"
+ },
+ {
+   "postcode": 6781,
+   "city": "Domaszék"
+ },
+ {
+   "postcode": 6782,
+   "city": "Mórahalom"
+ },
+ {
+   "postcode": 6783,
+   "city": "Ásotthalom"
+ },
+ {
+   "postcode": 6784,
+   "city": "Öttömös"
+ },
+ {
+   "postcode": 6785,
+   "city": "Pusztamérges"
+ },
+ {
+   "postcode": 6786,
+   "city": "Ruzsa"
+ },
+ {
+   "postcode": 6787,
+   "city": "Zákányszék"
+ },
+ {
+   "postcode": 6792,
+   "city": "Zsombó"
+ },
+ {
+   "postcode": 6793,
+   "city": "Forráskút"
+ },
+ {
+   "postcode": 6794,
+   "city": "Üllés"
+ },
+ {
+   "postcode": 6795,
+   "city": "Bordány"
+ },
+ {
+   "postcode": 6800,
+   "city": "Hódmezővásárhely"
+ },
+ {
+   "postcode": 6805,
+   "city": "Hódmezővásárhely"
+ },
+ {
+   "postcode": 6806,
+   "city": "Hódmezővásárhely"
+ },
+ {
+   "postcode": 6821,
+   "city": "Székkutas"
+ },
+ {
+   "postcode": 6900,
+   "city": "Makó"
+ },
+ {
+   "postcode": 6903,
+   "city": "Makó"
+ },
+ {
+   "postcode": 6911,
+   "city": "Királyhegyes"
+ },
+ {
+   "postcode": 6912,
+   "city": "Kövegy"
+ },
+ {
+   "postcode": 6913,
+   "city": "Csanádpalota"
+ },
+ {
+   "postcode": 6914,
+   "city": "Pitvaros"
+ },
+ {
+   "postcode": 6915,
+   "city": "Csanádalberti"
+ },
+ {
+   "postcode": 6916,
+   "city": "Ambrózfalva"
+ },
+ {
+   "postcode": 6917,
+   "city": "Nagyér"
+ },
+ {
+   "postcode": 6921,
+   "city": "Maroslele"
+ },
+ {
+   "postcode": 6922,
+   "city": "Földeák"
+ },
+ {
+   "postcode": 6923,
+   "city": "Óföldeák"
+ },
+ {
+   "postcode": 6931,
+   "city": "Apátfalva"
+ },
+ {
+   "postcode": 6932,
+   "city": "Magyarcsanád"
+ },
+ {
+   "postcode": 6933,
+   "city": "Nagylak"
+ },
+ {
+   "postcode": 6710,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6720,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6721,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6722,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6723,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6724,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6725,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6726,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6727,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6728,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6729,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6753,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6757,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6771,
+   "city": "Szeged"
+ },
+ {
+   "postcode": 6791,
+   "city": "Szeged"
+ }
+]

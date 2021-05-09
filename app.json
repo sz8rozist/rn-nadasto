@@ -1,0 +1,19 @@
+{
+  "name": "Nadasto Statisztika",
+  "displayName": "Nádastó Statisztika",
+  "expo": {
+    "name": "Nadasto",
+    "slug": "Nadasto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "Nadasto"
+    },
+    "android":{
+      "package": "nadasto.statisztika",
+      "versionCode": 1
+    }
+  }
+}
