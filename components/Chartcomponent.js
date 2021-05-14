@@ -71,7 +71,7 @@ const Chartcomponent = ({ route }) => {
     <>
       <LinearGradient style={styles.container} colors={["#094d79", "#00d4ff"]}>
         <Snackbar
-          style={{ zIndex: 1, backgroundColor: "green" }}
+          style={{ zIndex: 2, backgroundColor: "green" }}
           onDismiss={() => setVisible(false)}
           duration={1500}
           visible={visible}

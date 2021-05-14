@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Text, TextInput, Button, FAB, Snackbar } from "react-native-paper";
-import { StyleSheet, View } from "react-native";
+import { StyleSheet, View, KeyboardAvoidingView, Platform } from "react-native";
 import Adat from "./adatok.json";
 import { LinearGradient } from "expo-linear-gradient";
 
@@ -30,6 +30,7 @@ const Formcomponent = ({ navigation }) => {
     //console.log(chartData);
   }
   return (
+    <KeyboardAvoidingView style={{flex: 1}} behavior={Platform.OS == "ios" ? 'padding' : 'height'}>
     <LinearGradient style={styles.container} colors={["#094d79", "#00d4ff"]}>
       <Snackbar
         style={{ zIndex: 1, backgroundColor: "red"}}
@@ -78,6 +79,7 @@ const Formcomponent = ({ navigation }) => {
         />
       </View>
     </LinearGradient>
+    </KeyboardAvoidingView>
   );
 };
 const styles = StyleSheet.create({
